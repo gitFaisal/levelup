@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  background-image: url(./images/wood.jpg);
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+.app-name {
+  text-align: center;
+  color: aqua;
+  font-family: 'Times New Roman', Times, serif;
+}
+.app-container {
+  background-color: #143D59;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 40px;
+}
+
+.input-form {
+  text-align: center;
+  padding-right: 25px;;
+}
+
+.skill {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 10px;
+}
+
+.saved-skill {
+  display: flex;
+  justify-content: center;
+  color: white;;
+}
+.progressBar {
+  margin: 0%;
+  padding: 0px;
+}
+
+.bar-btn {
+  height: 40px;
+}
